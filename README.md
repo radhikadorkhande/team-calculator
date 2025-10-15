@@ -12,3 +12,7 @@ Features:
 ## Contributors
 - Radhika Dorkhande
 - Prerna Patil
+
+---
+
+Version : 1.00
